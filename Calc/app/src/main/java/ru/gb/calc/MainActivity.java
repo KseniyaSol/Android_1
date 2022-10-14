@@ -1,4 +1,4 @@
-package ru.gb.android_lesson1;
+package ru.gb.calc;
 
 import androidx.appcompat.app.AppCompatActivity;
 
