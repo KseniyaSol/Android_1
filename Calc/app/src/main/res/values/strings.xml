@@ -17,5 +17,8 @@
     <string name="key_point">.</string>
     <string name="key_plus">+</string>
     <string name="edit_text_preview">0</string>
+    <string name="key_c">C</string>
+    <string name="key_back">↤</string>
+    <string name="key_procent">%</string>
 
 </resources>
