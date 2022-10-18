@@ -2,8 +2,10 @@
 <resources>
     <dimen name="general_padding">10dp</dimen>
     <dimen name="edit_field_height">200dp</dimen>
+    <dimen name="edit_field_height_landscape">100dp</dimen>
     <dimen name="edit_text_size">50sp</dimen>
     <dimen name="button_margin">1dp</dimen>
     <dimen name="button_text_size">30sp</dimen>
+    <dimen name="button_text_size_landscape">20sp</dimen>
 
 </resources>
