@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".ui.CalculatorActivity"
+    style="@style/grid_style">
+
+    <TextView
+        android:id="@+id/input_field"
+        android:layout_height="@dimen/edit_field_height"
+        style="@style/input_style">
+    </TextView>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_c"
+        style="@style/usual_button_style"
+        android:text="@string/key_c"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_div"
+        style="@style/usual_button_style"
+        android:text="@string/key_division"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_mult"
+        style="@style/usual_button_style"
+        android:text="@string/key_multiplication"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_minus"
+        style="@style/usual_button_style"
+        android:text="@string/key_minus"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_7"
+        style="@style/usual_button_style"
+        android:text="@string/key_7"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_8"
+        style="@style/usual_button_style"
+        android:text="@string/key_8"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_9"
+        style="@style/usual_button_style"
+        android:text="@string/key_9"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_plus"
+        style="@style/usual_button_style"
+        android:text="@string/key_plus"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_4"
+        style="@style/usual_button_style"
+        android:text="@string/key_4"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_5"
+        style="@style/usual_button_style"
+        android:text="@string/key_5"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_6"
+        style="@style/usual_button_style"
+        android:text="@string/key_6"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_result"
+        style="@style/result_button_style"
+        android:text="@string/key_result"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_1"
+        style="@style/usual_button_style"
+        android:text="@string/key_1"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_2"
+        style="@style/usual_button_style"
+        android:text="@string/key_2"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_3"
+        style="@style/usual_button_style"
+        android:text="@string/key_3"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_procent"
+        style="@style/usual_button_style"
+        android:text="@string/key_procent"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_0"
+        style="@style/usual_button_style"
+        android:text="@string/key_0"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/key_point"
+        style="@style/usual_button_style"
+        android:text="@string/key_point"
+        android:textSize="@dimen/button_text_size">
+    </com.google.android.material.button.MaterialButton>
+
+</GridLayout>
